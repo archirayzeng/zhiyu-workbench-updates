@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "channel": "stable",
+  "released_at": "2026-11-07",
+  "min_version": "1.0.0",
+  "notes": "工作台首个正式版本：新增自动检测与一键更新",
+  "assets": {
+    "web": [
+      "https://raw.githubusercontent.com/archirayzeng/zhiyu-workbench-updates/main/web.zip",
+      "https://cdn.jsdelivr.net/gh/archirayzeng/zhiyu-workbench-updates@main/web.zip"
+    ],
+    "src": [
+      "https://raw.githubusercontent.com/archirayzeng/zhiyu-workbench-updates/main/src.bin",
+      "https://cdn.jsdelivr.net/gh/archirayzeng/zhiyu-workbench-updates@main/src.bin"
+    ],
+    "full": "https://github.com/archirayzeng/zhiyu-workbench-updates/releases"
+  },
+  "hashes": {
+    "web": "61df74392f509d81ba26780d2c4bc49f92ae5dff944b21b5ae4cb3a34cae9be6",
+    "src": "b90995f926277260339439b7d5a9e2efc67dcd6bdee654647c075e0c0779d6e4"
+  },
+  "encrypted": {
+    "src": "fernet-v1"
+  },
+  "forced_full": false
+}
